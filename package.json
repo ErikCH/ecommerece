@@ -16,7 +16,7 @@
     "express": "^4.16.4",
     "firebase": "^5.9.4",
     "nuxt": "^2.4.0",
-    "vuefire": "^1.4.5",
+    "vuefire": "^2.0.0-alpha.22",
     "vuetify": "^1.5.5",
     "vuetify-loader": "^1.2.1"
   },
